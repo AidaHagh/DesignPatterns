@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace FactoryPatternWithClassDiagram
+namespace FactoryPatternWithClassDiagram.CarExample
 {
-    public class Bmw : ICar
+    public class Toyota : ICar
     {
         public void Start()
         {
-            Console.WriteLine("Bmw Is Starting...");
+            Console.WriteLine("Toyota Is Starting...");
         }
     }
 }

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace FactoryPatternWithClassDiagram
+namespace FactoryPatternWithClassDiagram.CarExample
 {
     public interface ICar
     {
