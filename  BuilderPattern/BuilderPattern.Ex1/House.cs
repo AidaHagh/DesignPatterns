@@ -35,5 +35,10 @@ namespace BuilderPattern.Ex1
         {
             set { furnished = value; }
         }
+
+        public override string ToString()
+        {
+            return "/Foundation : " + foundation + "/ Structure : " + structure + "/ Roof : " + roof + "/ Is Painted ? " + painted + "/ Is Furnished ? " + furnished;
+        }
     }
 }
