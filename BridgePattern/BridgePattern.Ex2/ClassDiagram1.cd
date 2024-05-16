@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="در این پترن یک بخش ابسترکشن داریم یک بخش امپیلمنتر&#xD;&#xA;">
+    <Position X="2.579" Y="0.5" Height="0.75" Width="1.7" />
+  </Comment>
+  <Class Name="BridgePattern.Ex2.Tv">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tv.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BridgePattern.Ex2.Tablet">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tablet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BridgePattern.Ex2.Laptop">
+    <Position X="5.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Laptop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BridgePattern.Ex2.silver">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Silver.cs</FileName>
+      <NewMemberFileName>silver.cs</NewMemberFileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BridgePattern.Ex2.Black">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Black.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="BridgePattern.Ex2.AbstractDevice">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAECAAAAAAAAAAAA=</HashCode>
+      <FileName>AbstractDevice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="BridgePattern.Ex2.IColor">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>IColor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Calibri" Size="10" />
+</ClassDiagram>

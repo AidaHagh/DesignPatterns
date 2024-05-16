@@ -27,13 +27,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuilderPattern.Ex1", " Buil
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PrototypePattern", "PrototypePattern", "{9796CEBE-7F07-47D9-ADAA-335C14DD0AC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypePattern.Ex", "PrototypePattern\PrototypePattern.Ex\PrototypePattern.Ex.csproj", "{02A4B142-7360-400C-854E-B3D1FA11218E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrototypePattern.Ex", "PrototypePattern\PrototypePattern.Ex\PrototypePattern.Ex.csproj", "{02A4B142-7360-400C-854E-B3D1FA11218E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AdapterPattern", "AdapterPattern", "{100AE78D-7446-40AD-A49C-F3A1D82270DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterPattern.Ex", "AdapterPattern\AdapterPattern.Ex\AdapterPattern.Ex.csproj", "{4EBCD073-8419-412A-B433-292EC2548C4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdapterPattern.Ex", "AdapterPattern\AdapterPattern.Ex\AdapterPattern.Ex.csproj", "{4EBCD073-8419-412A-B433-292EC2548C4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovableClassLibrary", "AdapterPattern\MovableClassLibrary\MovableClassLibrary.csproj", "{12B6276D-90FC-4773-8421-74A033ED3B01}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MovableClassLibrary", "AdapterPattern\MovableClassLibrary\MovableClassLibrary.csproj", "{12B6276D-90FC-4773-8421-74A033ED3B01}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BridgePattern", "BridgePattern", "{67AE3328-BB8E-43D5-A696-41B92EBBCF1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgePattern.Ex", "BridgePattern\BridgePattern.Ex\BridgePattern.Ex.csproj", "{E943FD21-240E-48D4-BE31-4738412F6933}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BridgePattern.Ex2", "BridgePattern\BridgePattern.Ex2\BridgePattern.Ex2.csproj", "{2A0DC5ED-F1D5-4C8A-A640-D6106F824F77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +87,14 @@ Global
 		{12B6276D-90FC-4773-8421-74A033ED3B01}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12B6276D-90FC-4773-8421-74A033ED3B01}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12B6276D-90FC-4773-8421-74A033ED3B01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E943FD21-240E-48D4-BE31-4738412F6933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E943FD21-240E-48D4-BE31-4738412F6933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E943FD21-240E-48D4-BE31-4738412F6933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E943FD21-240E-48D4-BE31-4738412F6933}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A0DC5ED-F1D5-4C8A-A640-D6106F824F77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A0DC5ED-F1D5-4C8A-A640-D6106F824F77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A0DC5ED-F1D5-4C8A-A640-D6106F824F77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A0DC5ED-F1D5-4C8A-A640-D6106F824F77}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -96,6 +110,8 @@ Global
 		{02A4B142-7360-400C-854E-B3D1FA11218E} = {9796CEBE-7F07-47D9-ADAA-335C14DD0AC9}
 		{4EBCD073-8419-412A-B433-292EC2548C4A} = {100AE78D-7446-40AD-A49C-F3A1D82270DE}
 		{12B6276D-90FC-4773-8421-74A033ED3B01} = {100AE78D-7446-40AD-A49C-F3A1D82270DE}
+		{E943FD21-240E-48D4-BE31-4738412F6933} = {67AE3328-BB8E-43D5-A696-41B92EBBCF1B}
+		{2A0DC5ED-F1D5-4C8A-A640-D6106F824F77} = {67AE3328-BB8E-43D5-A696-41B92EBBCF1B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {26BD0F6A-E2B4-43B5-A678-B85A60FE91BB}
