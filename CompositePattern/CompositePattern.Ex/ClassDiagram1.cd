@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Component">
+    <Position X="5.246" Y="0.5" Height="0.295" Width="1" />
+  </Comment>
+  <Comment CommentText="Composite">
+    <Position X="7.149" Y="1.838" Height="0.295" Width="0.895" />
+  </Comment>
+  <Class Name="CompositePattern.Ex.Menu">
+    <Position X="6" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAgAAAAIAIABAQAAAAEAACAAAAAAAAAACA=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CompositePattern.Ex.MenuItem">
+    <Position X="3.75" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAQAgAAAAIAAAAAQAAAAEAIAAIAAAAAAAAAA=</HashCode>
+      <FileName>MenuItem.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="CompositePattern.Ex.IMenuComponent">
+    <Position X="5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IMenuComponent.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Calibri" Size="10" />
+</ClassDiagram>

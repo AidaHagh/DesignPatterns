@@ -7,31 +7,31 @@
     <Position X="0.63" Y="0.741" Height="0.295" Width="0.7" />
   </Comment>
   <Comment CommentText="concrete builder1">
-    <Position X="0.5" Y="2.743" Height="0.295" Width="1.336" />
+    <Position X="0.5" Y="2.644" Height="0.295" Width="1.336" />
   </Comment>
   <Comment CommentText="concrete builder2">
-    <Position X="3.232" Y="3.022" Height="0.295" Width="1.336" />
+    <Position X="3.133" Y="2.684" Height="0.295" Width="1.336" />
   </Comment>
   <Comment CommentText="director">
     <Position X="6.127" Y="1.564" Height="0.295" Width="0.7" />
   </Comment>
   <Class Name="BuilderPattern.Ex1.House">
-    <Position X="5.5" Y="3.5" Width="1.5" />
+    <Position X="5.5" Y="3.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AIAAAACAAAAAgAAECAAAAAgEAAAABAAEAAAABAAAAAA=</HashCode>
       <FileName>House.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="BuilderPattern.Ex1.PreFabricatedHouseBuilder">
-    <Position X="0.5" Y="3.25" Width="1.5" />
+    <Position X="0.75" Y="3.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAQAAAAIACBAAAAAAQAAAAAAAAAAAAAAAAQAAAACAAA=</HashCode>
       <FileName>PreFabricatedHouseBuilder.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="BuilderPattern.Ex1.ConcreteHouseBuilder">
-    <Position X="2.5" Y="2.75" Width="1.5" />
+    <Position X="2.5" Y="3.25" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAQAAAAIACBAAAAAAQAAAAAAAAAAAAAAAAQAAAACAAA=</HashCode>
       <FileName>ConcreteHouseBuilder.cs</FileName>
@@ -39,9 +39,9 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="BuilderPattern.Ex1.ConstructionEngineer">
-    <Position X="5" Y="2" Width="1.5" />
+    <Position X="5" Y="1.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAQAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>ConstructionEngineer.cs</FileName>
     </TypeIdentifier>
   </Class>
