@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DecoratorPattern.Ex.Beverage" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAIAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Beverage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorPattern.Ex.Espresso">
+    <Position X="2.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Espresso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorPattern.Ex.TurkCoffee">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TurkCoffee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorPattern.Ex.DeCof">
+    <Position X="4" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DeCof.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorPattern.Ex.CondimentDecorator">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>CondimentDecorator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorPattern.Ex.SteamedMilk">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SteamedMilk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorPattern.Ex.CoconutMilk">
+    <Position X="8.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CoconutMilk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorPattern.Ex.Cream">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cream.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DecoratorPattern.Ex.Chocolate">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chocolate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Calibri" Size="10" />
+</ClassDiagram>
