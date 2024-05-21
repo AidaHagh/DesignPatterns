@@ -51,11 +51,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompositePattern.Ex3", "Com
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DecoratorPattern", "DecoratorPattern", "{5DE39A6E-015E-4340-B28F-6CC9EB5BA1EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecoratorPattern.Ex", "DecoratorPattern\DecoratorPattern.Ex\DecoratorPattern.Ex.csproj", "{4F4F57AF-4F55-4FE1-AF12-6E22672E2C15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DecoratorPattern.Ex", "DecoratorPattern\DecoratorPattern.Ex\DecoratorPattern.Ex.csproj", "{4F4F57AF-4F55-4FE1-AF12-6E22672E2C15}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FacadePattern", "FacadePattern", "{0DD35068-1828-4A66-8AA3-EF7D206D370B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacadePattern.Ex", "FacadePattern\FacadePattern.Ex\FacadePattern.Ex.csproj", "{21533A79-48ED-418D-B4AE-33B7CE3476FD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FacadePattern.Ex", "FacadePattern\FacadePattern.Ex\FacadePattern.Ex.csproj", "{21533A79-48ED-418D-B4AE-33B7CE3476FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProxyPattern", "ProxyPattern", "{896AF58A-0EE5-483C-BE24-F7A52074A5B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProxyPattern.Ex", "ProxyPattern\ProxyPattern.Ex\ProxyPattern.Ex.csproj", "{F9CA4476-C320-45F7-A7DF-F2D0817A2E38}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FlyweightPattern", "FlyweightPattern", "{B04B25A9-AA66-414F-9408-BFC1EE458822}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyweightPattern.EX", "FlyweightPattern\FlyweightPattern.EX\FlyweightPattern.EX.csproj", "{FDF863BD-00F7-4438-9A64-2EB5A0E56C24}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -131,6 +139,14 @@ Global
 		{21533A79-48ED-418D-B4AE-33B7CE3476FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{21533A79-48ED-418D-B4AE-33B7CE3476FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{21533A79-48ED-418D-B4AE-33B7CE3476FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9CA4476-C320-45F7-A7DF-F2D0817A2E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9CA4476-C320-45F7-A7DF-F2D0817A2E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9CA4476-C320-45F7-A7DF-F2D0817A2E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9CA4476-C320-45F7-A7DF-F2D0817A2E38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDF863BD-00F7-4438-9A64-2EB5A0E56C24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF863BD-00F7-4438-9A64-2EB5A0E56C24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF863BD-00F7-4438-9A64-2EB5A0E56C24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF863BD-00F7-4438-9A64-2EB5A0E56C24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -153,6 +169,8 @@ Global
 		{603A899D-C156-46A7-A580-EE0227171CE5} = {639E4342-620D-43CD-9210-F13437FD788B}
 		{4F4F57AF-4F55-4FE1-AF12-6E22672E2C15} = {5DE39A6E-015E-4340-B28F-6CC9EB5BA1EC}
 		{21533A79-48ED-418D-B4AE-33B7CE3476FD} = {0DD35068-1828-4A66-8AA3-EF7D206D370B}
+		{F9CA4476-C320-45F7-A7DF-F2D0817A2E38} = {896AF58A-0EE5-483C-BE24-F7A52074A5B5}
+		{FDF863BD-00F7-4438-9A64-2EB5A0E56C24} = {B04B25A9-AA66-414F-9408-BFC1EE458822}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {26BD0F6A-E2B4-43B5-A678-B85A60FE91BB}
